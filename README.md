@@ -209,19 +209,19 @@
 9. How do headings and subheadings improve the readability and organization of technical documents?
    ---
 
-  1. Improved Readability
-     Easier Navigation: Headings allow readers to quickly scan the document and identify sections of interest. This is particularly useful in long or complex documents where users may need to jump directly to a relevant part.
-     Visual Clarity: By breaking up large blocks of text, headings create white space and make the document less intimidating, leading to a more pleasant reading experience.
-     Hierarchical Structure: Subheadings provide a clear hierarchy, which helps readers understand the relationship between different topics and subtopics, facilitating better comprehension.
+   1. Improved Readability
+      Easier Navigation: Headings allow readers to quickly scan the document and identify sections of interest. This is particularly useful in long or complex documents where users may need to jump directly to a relevant part.
+      Visual Clarity: By breaking up large blocks of text, headings create white space and make the document less intimidating, leading to a more pleasant reading experience.
+      Hierarchical Structure: Subheadings provide a clear hierarchy, which helps readers understand the relationship between different topics and subtopics, facilitating better comprehension.
      
-  2. Enhanced Organization
-     Logical Flow: Well-structured headings ensure that the document follows a logical progression. They help in grouping related ideas together, making it easier to follow the author’s line of reasoning.
-     Efficient Information Retrieval: In technical documents, where accuracy and specificity are key, headings enable users to locate information quickly without having to read through entire sections.
-     Consistency: Using standardized headings throughout a document can maintain a consistent format, which is especially beneficial for multi-author works or documents intended for diverse audiences.
+   2. Enhanced Organization
+      Logical Flow: Well-structured headings ensure that the document follows a logical progression. They help in grouping related ideas together, making it easier to follow the author’s line of reasoning.
+      Efficient Information Retrieval: In technical documents, where accuracy and specificity are key, headings enable users to locate information quickly without having to read through entire sections.
+      Consistency: Using standardized headings throughout a document can maintain a consistent format, which is especially beneficial for multi-author works or documents intended for diverse audiences.
      
-  3. Aiding in Documentation and Maintenance
-     Simplified Updates: When technical documents need to be revised, clear headings help authors identify the sections that require updates, ensuring consistency across the document.
-     Enhanced Accessibility: For digital documents, headings can be linked to a table of contents or used in navigation menus, making the document more accessible for users with disabilities or those using assistive technologies.
+   3. Aiding in Documentation and Maintenance
+      Simplified Updates: When technical documents need to be revised, clear headings help authors identify the sections that require updates, ensuring consistency across the document.
+      Enhanced Accessibility: For digital documents, headings can be linked to a table of contents or used in navigation menus, making the document more accessible for users with disabilities or those using assistive technologies.
 
 ---
 
